@@ -1,11 +1,3 @@
-
-# سلام 👋
-
-من کارشناس ریاضی محض هستم و به برنامه‌نویسی و ساخت ابزارهای محاسباتی علاقه دارم.
-
-## در حال یادگیری
-- C++
-- Python
-
 ## پروژه‌ها
-به‌زودی پروژه‌های ریاضی و محاسباتی اینجا اضافه می‌شوند.
+- [python-practice](https://github.com/1986maryamtaheri-pixel/python-practice): تمرین‌های Python با numpy و matplotlib
+- [cpp-practice](https://github.com/1986maryamtaheri-pixel/cpp-practice): تمرین‌های C++ (خصوصی)
